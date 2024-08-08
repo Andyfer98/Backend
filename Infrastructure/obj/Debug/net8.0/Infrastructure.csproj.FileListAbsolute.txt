@@ -1,0 +1,102 @@
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\VILLAMAR\Desktop\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CopyComplete
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\VILLAMAR\Desktop\Proyectos\Sistema Elección Reina de Facultad\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v1\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v2\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - v3\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\altam\Documents\UG\7 semestre\DAWA\2 Parcial\Proyecto Grupal\Sistema Elección Reina de Facultad - version Pruebas\reina-facultad-backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
